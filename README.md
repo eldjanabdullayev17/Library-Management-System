@@ -4,9 +4,11 @@ This is a Library Management System built using ASP.NET Core Web API. The system
 ## Project Objective
 To create a complex system for the provision of library resources, users and management.
 
-## Features
-# Books:
-Search and filter books by category, author, publication year, etc.
-Add, update, delete, and view books.
-Manage book inventory (track the number of available books).
+<h2>Features</h2>
+<h3>Books:</h3>
+<ul>
+  <li>Search and filter books by category, author, publication year, etc.</li>
+  <li>Add, update, delete, and view books.</li>
+  <li>Manage book inventory (track the number of available books).</li>
+</ul>
 
