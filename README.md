@@ -60,4 +60,13 @@ To create a complex system for the provision of library resources, users and man
   <li>Generate and view reports (rental statistics, most read books, etc.).</li>
 </ul>
 
+<h2>Installation</h2>
+<ol>
+  <li>Clone the repository: <code>git clone repository_url</code></li>
+  <li>Open the project in Visual Studio.</li>
+  <li>Restore the required NuGet packages.</li>
+  <li>Set up the SQL Server database connection string in the configuration file.</li>
+  <li>Run the application.</li>
+</ol>
+
 
